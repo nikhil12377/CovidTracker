@@ -1,9 +1,11 @@
 import Covid from "./Components/Covid"
+
 function App() {
 
   return (
     <>
       <Covid />
+
     </>
   );
 }
