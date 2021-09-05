@@ -1,6 +1,7 @@
 ## Covid Tracker
 
 This is a simple Covid number tracker app using [covid19india](https://api.covid19india.org/data.json) API.
+
 Website is live at [CovidTracker](https://nikhil12377.github.io/CovidTracker/)
 
 ## Installation and Setup Instructions
